@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: RezTimer
+## Notes: BG Rez Timer
+## SavedVariablesPerCharacter: RezTimerSV
+
+RezTimer.lua
