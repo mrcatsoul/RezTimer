@@ -2,7 +2,7 @@
 
 -- изменения от Mori(GitHub/YouTube/Discord/Telegram: @mrcatsoul):
 
--- 31.5.25
+-- 31.5.25:
 
 -- кд в виде секунд;
 -- команды:
