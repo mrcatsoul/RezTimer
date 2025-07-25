@@ -136,7 +136,7 @@ rezTimer:SetScript("OnEvent", function(self, event, ...)
 			self:Hide()
 		end
     
-    SPELL_2584_NAME = GetSpellInfo(2584)
+    SPELL_2584_NAME = GetSpellInfo(2584) -- Ожидание воскрешения (Оставайтесь в поле зрения хранителя душ и дожидайтесь воскрешения.)
     self:update()
 	elseif event == "ADDON_LOADED" and ... == addonName then
 		self:UnregisterEvent("ADDON_LOADED")
